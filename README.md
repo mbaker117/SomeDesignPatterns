@@ -1,2 +1,2 @@
 #DesginPatterns
-This project incldude some of the design pattern implementation
+This project incldudes some of the design patterns implementations.
